@@ -1,22 +1,10 @@
 ---
-title: Page with cover image
-author: Tao He
-date: 2022-05-24
+title: Notes
+author: None
+date: 2023-10-13
 category: Jekyll
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
-
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
+This page is expected to have my notes. Now you can find some of my notes on [Zhihu](https://www.zhihu.com/people/omniscient-79/posts).
