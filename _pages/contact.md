@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+You can contact me by sending email to huanght53@mail2.sysu.edu.cn. 
