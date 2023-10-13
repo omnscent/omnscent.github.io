@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Homepage
+title: Haotian Huang's Homepage
 permalink: /
 ---
 
