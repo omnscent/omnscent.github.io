@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is my [CV](./Omnscent_Resume.pdf).
+This is my [CV](../Omnscent_Resume.pdf).
