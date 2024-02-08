@@ -8,7 +8,7 @@ permalink: /
 
 Welcome to my homepage! I am Haotian Huang. I am a senior-year undergraduate student major in mathmathics at Sun Yat-sen University. 
 
-Currently, I'm a research intern supervised by Yisen Wang. I am interested in self-supervised learning, both theory and applications.
+Currently, I'm a research intern supervised by [Yisen Wang](https://yisenwang.github.io/). I am interested in self-supervised learning, both theory and applications.
 
 # News
 
