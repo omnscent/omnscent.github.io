@@ -54,7 +54,7 @@ layout: post
 
 关于教材、讲义和习题等，有一些参考的资料：
 
-- [Cambridge Notes](https://dec41.user.srcf.net/notes/) 小哥Dexter Chua在剑桥学习期间的笔记。他还传授了一些 $\LaTeX$ 技巧。
+- [Cambridge Notes](https://dec41.user.srcf.net/notes/) 小哥Dexter Chua在剑桥学习期间的笔记。他还传授了一些LaTeX技巧。
 - [Oxford Mathematical Institute](https://courses.maths.ox.ac.uk/) 剑桥数学学院的官网，有所有课程的资料。
 - [MSE](https://math.stackexchange.com/) 最大的数学交流网站之一，有问题都可以在这里提问。
 
