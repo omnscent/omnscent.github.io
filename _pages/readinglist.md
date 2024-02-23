@@ -1,4 +1,4 @@
-![image](https://github.com/omnscent/omnscent.github.io/assets/52355142/1ebd5130-ef67-4c01-bae8-3e8d30aa15dc)---
+---
 title: Reading List
 author: Haotian Huang
 date: 2023-10-13
