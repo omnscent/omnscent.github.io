@@ -4,6 +4,7 @@ author: Haotian Huang
 date: 2024-01-01
 category: Jekyll
 layout: post
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 # 前言
