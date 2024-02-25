@@ -320,16 +320,13 @@ B站有王高雄的[讲解视频](https://www.bilibili.com/video/BV1vD4y1J7zY)�
 - [概率论与数理统计教程 by 茆诗松](https://book.douban.com/subject/34897672/) 国内很常用的一套概率论和数理统计教材，这本书的内容也非常扎实，是很多考研的备考用书。这本书也有配套的学习指南。
 - [概率论与数理统计 by 陈希孺](https://book.douban.com/subject/2201479/) 陈希孺院士写的一本概率论和数理统计教材，讲解很细致，来龙去脉介绍的很清楚，不过内容较少，需要搭配其他书学习。
 - [A First Course in Probability by Ross](https://book.douban.com/subject/3715244/) 国外很常用的一本概率论入门教材，例子很多，适合入门使用。这本书有中文翻译版。
-
 - [Probability and Random Processes by Grimmett](https://book.douban.com/subject/1795673/) 这本书也是一本概率论的入门教材，由浅入深，同时还包括了随机过程的内容。这本书最好的一点是有一本配套的习题集[One Thousand Exercises in Probability](https://book.douban.com/subject/2866744/)，包含了非常多的习题。这本习题有中文翻译。
-
 - [Introduction to Probability by Bertsekas](https://book.douban.com/subject/1812629/) 这本书是MIT的初等概率论教材，讲解深入浅出，并且有配套的视频。这本书有中文翻译。
 - [Elementary Probability Theory by Kai Lai Chung](https://book.douban.com/subject/4619399/) 大名鼎鼎的钟开莱老爷子写的教材，注意不要和他写的A Course in Probability Theory搞混。这本书不假定读者有任何的背景知识，完全从头开始，并且介绍了很多历史知识，适合初学时使用。
 
 对于测度论和高等概率论有兴趣的同学，可以参考以下的书籍：
 
 - [测度论与概率论基础 by 程士宏](https://book.douban.com/subject/1237821/) 这是一本国内的研究生教材，旨在“短平快”地为初等概率论与公理化的概率论之间搭起一座桥梁，是很好的高等概率论基础教材。
-
 - [A Course in Probability Theory by Kai Lai Chung](https://book.douban.com/subject/4818683/) 钟开莱的高等概率论教材，同样讲解清晰，习题质量很好。
 - [Probability by Durrett](https://book.douban.com/subject/30380317/) 国外常用的一本研究生高等概率论教材，内容简洁而清晰，观点较高，需要有一定的实变函数基础。
 
@@ -356,7 +353,6 @@ TODO
 **参考资料**：复变的教材很多，可以参考的教材有：
 
 - [Complex Analysis by Stein](https://book.douban.com/subject/2108337/) 著名的Stein四部曲之一，在知乎和豆瓣的评价都非常高，习题质量也很高，是最推荐的教材之一。有中文翻译版，但是质量非常差。
-
 - [Complex Analysis by Ahlfors](https://book.douban.com/subject/1410002/) 首届菲尔茨奖得主写的书，内容扎实，讲解清晰，是非常经典的教材。有中文翻译版。
 - [Visual Complex Analysis by Needham](https://book.douban.com/subject/35316347/) 非常有名的一本复分析教材，这本书从几何的角度解释复分析，观点非常新颖，非常适合初学时建立对于这门学科的直观理解。有中文翻译版，由齐民友教授翻译，质量很高，还加入了一些专门的说明，比原版书更加推荐。
 - [简明复分析 by 龚昇](https://book.douban.com/subject/3797737/) 科大的一本教材，适合当余家荣教材的替换版。
@@ -385,7 +381,6 @@ TODO
 **参考资料**：数理统计的参考资料也很多，我看过的有：
 
 - [概率论与数理统计教程 by 茆诗松](https://book.douban.com/subject/34897672/) 同上，这套教材的特点就是内容丰富且有配套学习指南。
-
 - [数理统计学教程 by 陈希孺](https://book.douban.com/subject/3996242/) 陈希孺院士写的一本数理统计教材，讲解深入浅出，把各种内容的来龙去脉都介绍的很清晰。这本书的内容相对来说少一点，可以用其他书补充。
 - [All of Statistics by Wasserman](https://book.douban.com/subject/2285151/) 和其名字一样，从数理统计开始讲解了非常多的统计学知识，内容非常多，但是比较简明，适合当手册。有中文翻译版，但是质量不高。
 
@@ -535,7 +530,6 @@ PDE是一个内容丰富的学科，目前的发展也很快。但是中大数�
 **参考资料**：随机过程的资料也比较多，我读过的有：
 
 - [随机过程 by 何书元](https://book.douban.com/subject/3516837/) 这本书是北大的教材，讲解的比林元烈清晰很多，内容基本相同，非常适合当作教材的替代品。
-
 - [Stochastic Processes by Ross](https://book.douban.com/subject/24854825/) 非常经典的随机过程教材，讲解非常好，内容覆盖也很全面。这本书有人认真写了[解答](http://www.charmpeach.com/category/stochastic-processes/)。这本书有中文翻译版，但是翻译质量很差。
 - [Introduction to Probability Models by Ross](https://book.douban.com/subject/26761202/) Ross的另一本教材，基本内容也都是随机过程。这本书有非常多的例子和题目，比较推荐。
 - [Introduction to Stochastic Processes by Lawler](https://book.douban.com/subject/1826523/) 研究生的随机过程教材，难度比较大，适合进一步学习。
@@ -660,9 +654,9 @@ TODO
 **教材点评**：拓扑学的参考资料非常多，我读过的有：
 
 - [拓扑学(H)讲义](http://staff.ustc.edu.cn/~wangzuoq/Courses/22S-Topology/index.html) 中科大王作勤(🚀)教授的讲义，内容很扎实，讲解也很好。
-
 - [Topology by Munkres](https://book.douban.com/subject/1801389/) 经典的一本教材，在点集拓扑部分介绍的非常详细，代数拓扑部分有一点欠缺。有中文翻译版。
 - [Basic Topology by Armstrong](https://book.douban.com/subject/2870445/) 也是一本很经典的教材，强调直观。
+- [Topology w/o Tears by Morris](https://www.topologywithouttears.net/) 一本友好的拓扑教材，讲解还不错，内容也很丰富，并且持续在更新。网站上有中文版，但是是比较古老的版本。
 
 **学习建议**：拓扑学也比较抽象，和抽象代数一样，各种例子在拓扑学的学习过程中非常重要，通过实际的例子能够加强想象能力。
 
