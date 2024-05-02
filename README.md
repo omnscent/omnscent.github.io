@@ -12,6 +12,7 @@ Currently, I'm a research intern supervised by [Yisen Wang](https://yisenwang.gi
 
 # News
 
+- 2024.4: A paper has been accepted by ICML 2024.
 - 2024.2: I have received offers for the NUS Master of Science (Mathematics) and NUS Master of Science in Data Science and Machine Learning.
 - 2023.10: I won the **National Scholarship** in the 2022-2023 academic year (**3 awardees** among undergraduates in School of Mathematicals, **Top 1%**).
 - 2023.8: I ranked 2/85 in the 2022-2023 academic year.
