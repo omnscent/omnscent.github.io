@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-You can contact me by sending email to huanght53@mail2.sysu.edu.cn. 
+You can contact me by sending email to omniscient2002@gmail.com.
