@@ -19,7 +19,7 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 
 为这份指南作出贡献的同学有：
 
-- [姜博恩 20级统计](https://bcyberium.github.io/)
+- [姜博恩 20级统计](https://boen-git.github.io/)
 - 朱旷宇 20级统计
 
 # 动机
