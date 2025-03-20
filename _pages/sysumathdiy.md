@@ -6,7 +6,6 @@ category: Jekyll
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
-
 # 前言
 
 这里是一份中山大学数院本科指南。指南中包含的课程来源于数院2020级的课程大纲。我本人没有上过的课程会特别标记出来，这些课程的内容来自数院其他的优秀学长学姐。同时，很多课程只在课程大纲内有，但是没有开设。由于数院近年课程大纲变化较多，因此这里的内容顺序应和实际情况有一定出入。
@@ -217,7 +216,7 @@ B站有部分国内大学的网课，由于这门课在国外主要是计算机�
 
 **参考资料**：这门课由于上课内容不明确，因此取决于老师的推荐。
 
-**学习建议**：20级的考试是全英文，因此了解涉及到的英语术语比较重要。考试内容会随着老师安排而有较大变化，因此没法给出建议。事实上，这门课会布置一些画图的作业，由于大一下没有开设编程方面的过程，因此建议同学们借本课程的机会掌握R语言或者Python的面向过程编程，这样对大二上的*数值分析*和大二下的*数据结构*都更有好处。
+**学习建议**：20级的考试是全英文，因此了解涉及到的英语术语比较重要。考试内容会随着老师安排而有较大变化，因此没法给出建议。事实上，这门课会布置一些画图的作业，由于大一下没有开设编程方面的过程，因此建议同学们借本课程的机会掌握R语言或者Python，这样对大二上的*数值分析*和大二下的*数据结构*都更有好处。
 
 ### 数论基础(专选)(我没上)
 
@@ -231,7 +230,7 @@ B站有部分国内大学的网课，由于这门课在国外主要是计算机�
 
 **参考资料**：我高中数竞用过的数论教材是：
 
-- [初等数论 by 潘承洞 & 潘承彪](https://book.douban.com/subject/21267842/) 二潘的书是标准的数竞用书，内容丰富，讲解细致，同时包含了IMO的试题，适合具有一定基础的同学使用。
+- [初等数论 by 潘承洞 &amp; 潘承彪](https://book.douban.com/subject/21267842/) 二潘的书是标准的数竞用书，内容丰富，讲解细致，同时包含了IMO的试题，适合具有一定基础的同学使用。
 
 同时还有[Rosen](https://book.douban.com/subject/3802271/)、[Hardy](https://book.douban.com/subject/35415655/)、[华罗庚](https://book.douban.com/subject/3014539/)、[陈景润](https://book.douban.com/subject/10726262/)的数论教材，可按照个人喜好选择。
 
@@ -323,7 +322,6 @@ B站有王高雄的[讲解视频](https://www.bilibili.com/video/BV1vD4y1J7zY)�
 
 总之，不要单纯对这本书咬文嚼字，需要我们有意识的分辨哪些是重要的，哪些是拓展的。在课后题弄明白的前提下，建议阅读一些更深入的教材。
 
-
 **参考资料**：一般来说李贤平已经够用，如果有需要可以参考的教材有：
 
 - [概率论与数理统计教程 by 茆诗松](https://book.douban.com/subject/34897672/) 国内很常用的一套概率论和数理统计教材，这本书的内容也非常扎实，是很多考研的备考用书。这本书也有配套的学习指南。
@@ -371,7 +369,7 @@ TODO
 
 还有一些教材，例如[Conway](https://book.douban.com/subject/1231245/)、[Lang](https://book.douban.com/subject/1231202/) $^\ast$ 和[普里瓦洛夫](https://book.douban.com/subject/26586352/)，可以看个人兴趣选择。
 
- $^\ast$​​ Lang的习题非常有意思，有一道题是黎曼猜想。
+ $^\ast$ Lang的习题非常有意思，有一道题是黎曼猜想。
 
 习题集的选择不算多，有一本可以参考：
 
@@ -392,21 +390,16 @@ TODO
 - [概率论与数理统计教程 by 茆诗松](https://book.douban.com/subject/34897672/) 同上，这套教材的特点就是内容丰富且有配套学习指南。
 - [数理统计学教程 by 陈希孺](https://book.douban.com/subject/3996242/) 陈希孺院士写的一本数理统计教材，讲解深入浅出，把各种内容的来龙去脉都介绍的很清晰。这本书的内容相对来说少一点，可以用其他书补充。
 - [All of Statistics by Wasserman](https://book.douban.com/subject/2285151/) 和其名字一样，从数理统计开始讲解了非常多的统计学知识，内容非常多，但是比较简明，适合当手册。有中文翻译版，但是质量不高。
-
 - [数理统计学讲义 by 陈家鼎等](https://www.hep.com.cn/book/show/74b5f235-1e9b-44fb-a61e-8a495073cf28)
-数理统计作为统计学的基础课内容上大同小异，重点是看不同书中对概念的引入和应用。
-
-
+  数理统计作为统计学的基础课内容上大同小异，重点是看不同书中对概念的引入和应用。
 
 还有一些专著，例如：
 
 - [Statistical Inference by Casella](https://book.douban.com/subject/1464795/) 统计推断的神书，把统计推断这部分讲解的很清晰透彻，内容很多。有中文翻译版。然而这本书有些过誉，因为它在理论上并没有比我们的教材严格多少，相反由于它的结构更加清新，完全可以当做我们学习数理统计时的参考书。
-
 - [数理统计 by 邵军](https://link.springer.com/book/10.1007/b97553)
-非常扎实的数理统计教程，是很多学校的研究生教材，有一本配套习题，适合用来做统计学方面的学术训练。
-
+  非常扎实的数理统计教程，是很多学校的研究生教材，有一本配套习题，适合用来做统计学方面的学术训练。
 - [Essential Statistical Inference by Boos](https://link.springer.com/book/10.1007/978-1-4614-4818-1)
-方法现代，注重应用，是接触数理统计应用、数据分析、建模方面的好教程。建议在学完本门课程后使用。
+  方法现代，注重应用，是接触数理统计应用、数据分析、建模方面的好教程。建议在学完本门课程后使用。
 
 注意，Hogg的书内容比较杂，因此通常来说一本参考书是不够的。
 
@@ -440,7 +433,6 @@ Hogg的书没有官方答案，chegg上有一些别人整理的答案。
 除了这些，还有一些专著，例如：
 
 - [群表示论 by 丘维声](https://book.douban.com/subject/6893674/) 群论的进一步内容。
-
 - [Introduction To Commutative Algebra by Atiyah](https://book.douban.com/subject/1440976/) 菲尔茨奖得主Atiyah的交换代数教材，从环开始，深入讨论了交换环和理想等内容。
 
 习题集有：
@@ -497,7 +489,7 @@ TODO
 - [Real Analysis by Stein](https://book.douban.com/subject/2180094/) Stein四部曲之一，同样讲解清晰，内容丰富，是值得推荐的教材。有中文翻译版，质量同样非常差。
 - [Real and Complex Analysis by Rudin](https://book.douban.com/subject/1446020/) 还是Big Rudin，不需要过多介绍。
 - [Analysis by Terence Tao](https://book.douban.com/subject/30227556/) 著名天才陶哲轩写的教材。这本书有意思的地方在于，他把整个分析作为一个体系进行介绍，从皮亚诺公理定义自然数开始，一步一步介绍到实分析的内容。由于覆盖范围较大，这本书不算非常深入。Terence还有一些相关的教材，包括[An Introduction to Measure Theory](https://book.douban.com/subject/7062228/)和[An Epsilon of Room](https://book.douban.com/subject/5416039/)。
-- [Measure, Integration & Real Analysis by Axler](https://book.douban.com/subject/35193818/) 这本书有免费电子版，讲解也很清楚清晰，在知乎的评价也比较高。
+- [Measure, Integration &amp; Real Analysis by Axler](https://book.douban.com/subject/35193818/) 这本书有免费电子版，讲解也很清楚清晰，在知乎的评价也比较高。
 - [Modern Real Analysis by Ziemer](https://link.springer.com/book/10.1007/978-3-319-64629-9) 整合了实分析和泛函内容的教材，内容扎实，讲解也很好。
 - [Real Analysis by Folland](https://book.douban.com/subject/2856363/) 标准的研究生实分析教材，内容丰富很多，难度也略大。
 
@@ -574,7 +566,6 @@ TODO
 
 3学分，教材：[应用线性回归模型 by Kutner](https://book.douban.com/subject/1628833/)
 
-
 应用回归分析在笔者看来是统计学中相当有意思的一科。它相当符合“大众意义上”的数学，也就是“分析问题”+“解决问题”。事实上，不同于数学，大部分统计专业课都有相当强的应用背景，因此在学习中除了理解理论以外，记住一些生动的例子，或是完成一些研究项目，对理解应用回归分析很有帮助。
 
 之所以在这里列出两本教材是因为本课程当时分别采用这两本，第一本用在数学系，第二本用在统计系。
@@ -584,16 +575,13 @@ TODO
 **参考资料**：
 
 - [应用回归分析 by 何晓群](https://book.douban.com/subject/2171872/) 指定的教材，比上课的内容简单。
-- [回归分析与线性统计模型 by 林建忠](https://book.douban.com/subject/30931602/) 
-例子也十分丰富。
-
+- [回归分析与线性统计模型 by 林建忠](https://book.douban.com/subject/30931602/)
+  例子也十分丰富。
 
 **学习建议**：
 考试比较简单，对于证明的要求不高。可以在前半学期把该门课程在某种程度上看成是R语言的入门课，对于想接触经济、金融的同学们来说，该课程与*计量经济学*的内容重合度很高，因此在学习时，建议同步阅读计量经济学，积累例子。
 
 ### 矩阵分析(没开)
-
-
 
 ---
 
