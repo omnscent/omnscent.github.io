@@ -12,7 +12,7 @@ Currently, I'm a research intern supervised by [Yisen Wang](https://yisenwang.gi
 
 # News
 
-- 2025.5: A paper on length generalization has been accepted by ICML 2025.
+- 2025.5: A paper on [length generalization](https://arxiv.org/abs/2506.11769) has been accepted by ICML 2025.
 - 2024.4: A paper [Autoregressive and Mask SSL](https://arxiv.org/abs/2407.00935) has been accepted by ICML 2024.
 - 2023.10: I won the **National Scholarship** in the 2022-2023 academic year (**Top 0.2%** among undergraduates).
 - 2023.1: I won the First prize in Chinese Mathematics Competitions for College Students (Guangdong Division).
